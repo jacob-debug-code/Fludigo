@@ -6,95 +6,77 @@ Grammar Guru is an AI-powered English grammar learning and writing assistant des
 Whether you're a student preparing for exams, a professional writing emails, or someone learning English, Grammar Guru makes learning grammar simple and engaging.
 
 
-## Features
+##  Features
 
 ###  AI Grammar Checker
-- Detects grammar mistakes
-- Corrects sentence structure
-- Fixes punctuation
-- Corrects spelling
-- Suggests better wording
+- Interactive text editor
+- Grammar analysis interface
+- Grammar score display
+- Grammar explanation panel
+- Writing suggestions
+- Text formatting option
 
 
-### Grammar Explanation
-
-Instead of only correcting mistakes, Grammar Guru explains:
-
-- Why the sentence is wrong
-- Grammar rule used
-- Correct sentence
-- Examples of correct usage
+### 📖 Grammar Insights
+- Grammar feedback
+- Writing suggestions
+- Grammar rule display
+- Example usage
 
 
-## Grammar Quiz
-
-Interactive quizzes on topics like:
+###  Grammar Quizzes
+Practice different grammar topics including:
 
 - Tenses
-- Articles
 - Prepositions
-- Active & Passive Voice
-- Direct & Indirect Speech
-- Subject Verb Agreement
-- Punctuation
-
-Features
-
-- Multiple Choice Questions
-- Instant feedback
-- Score tracking
+- Active vs Passive Voice
+- Subject-Verb Agreement
 
 
 ###  Vocabulary Builder
 
-Learn new words every day.
-
-Includes
+Word of the Day section including:
 
 - Meaning
 - Synonyms
 - Antonyms
 - Example sentence
-- Pronunciation
 
----
 
 ###  Writing Practice
 
-Users can write
+Dedicated writing exercises for:
 
 - Essays
-- Paragraphs
-- Emails
-- Stories
-
-The AI provides
-
-- Grammar corrections
-- Vocabulary suggestions
-- Writing tips
-- Readability score
+- Professional Emails
+- Creative Stories
 
 
-###  Conversation Practice
+###  AI Conversation Practice
 
-Practice English conversations using AI.
+Interactive AI-style chat interface for:
 
-
-
-### Progress Dashboard
-
-Track
-
-- Daily streak
-- Quiz scores
-- Grammar accuracy
-- Vocabulary learned
-- Writing improvement
+- English conversation practice
+- Grammar-focused discussions
+- Writing improvement prompts
 
 
-### Dark Mode
+###  Learning Dashboard
 
-Comfortable reading experience with Light and Dark themes.
+Monitor learning progress with:
+
+- Daily Streak
+- Grammar Accuracy
+- New Words Learned
+- Progress Visualization
+
+
+###  Dark Mode
+
+Switch instantly between:
+
+- Light Theme
+- Dark Theme
+
 
 # Fludigo
